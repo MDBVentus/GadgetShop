@@ -1,0 +1,3 @@
+PROJECT TITLE: CS4001 Code
+PURPOSE OF PROJECT: Coursework for CS4001
+AUTHORS: Martim Basilio
